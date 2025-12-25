@@ -651,8 +651,8 @@
     // 年龄选择按钮事件
     age30Btn.addEventListener('click', function() {
         // 跳转到百度
-      window.location.href = 'https://api.whatsapp.com/send?phone=19708404196';  
-      //window.location.href = 'https://api.whatsapp.com/send?phone=17609913273';
+      //window.location.href = 'https://api.whatsapp.com/send?phone=19708404196';  
+      window.location.href = 'https://api.whatsapp.com/send?phone=17609913273';
     });
     
     ageUnder30Btn.addEventListener('click', function() {
